@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5vPxAfIQcyM3MUVcsWH8Y6Ezd2QDklxIofm/xF00bBJgITv4qrlVTf+wgWxHC5VhgIVOEN2h2H2bJ1FnykYEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ameer\\source\\repos\\CsvWordFinder\\CsvWordFinder\\CsvWordFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ameer\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

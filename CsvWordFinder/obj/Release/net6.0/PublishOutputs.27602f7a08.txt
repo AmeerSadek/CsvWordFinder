@@ -1,0 +1,6 @@
+C:\Users\Ameer\Desktop\Task\CsvWordFinder.exe
+C:\Users\Ameer\Desktop\Task\CsvWordFinder.dll
+C:\Users\Ameer\Desktop\Task\CsvWordFinder.deps.json
+C:\Users\Ameer\Desktop\Task\CsvWordFinder.runtimeconfig.json
+C:\Users\Ameer\Desktop\Task\CsvWordFinder.pdb
+C:\Users\Ameer\Desktop\Task\CsvHelper.dll
